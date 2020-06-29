@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "oFvLiqKsjDTrNw75X/9wn8Z/64KHBsSGzAiaWLyO0T5Nve80P3u6CO1O+c6E1LkZtgA8M8cMPhUNb+4DmalweA==",
+  "success": true,
+  "projectFilePath": "/Users/danielmarques/Documents/Projetos/CursoRest/Alura.WebAPI/Alura.WebAPI.Model/Alura.WebAPI.Model.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielmarques/.nuget/packages/microsoft.aspnetcore.http.features/2.1.0/microsoft.aspnetcore.http.features.2.1.0.nupkg.sha512",
+    "/Users/danielmarques/.nuget/packages/microsoft.extensions.primitives/2.1.0/microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "/Users/danielmarques/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/danielmarques/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/danielmarques/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/danielmarques/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/danielmarques/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/danielmarques/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/danielmarques/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/danielmarques/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/Users/danielmarques/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.0/system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
